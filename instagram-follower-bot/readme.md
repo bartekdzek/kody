@@ -18,10 +18,13 @@ To run this project, you need the following:
 - Selenium library
 - ChromeDriver
 
-Code Structure
+**Code Structure**
+
 The project consists of a single class, InstaFollower, which includes methods for logging in, finding followers, and following them.
 
-Initialization: Sets up the Chrome browser with options to prevent it from closing after the script completes.
+**Initialization:**
+
+Sets up the Chrome browser with options to prevent it from closing after the script completes.
 login(): Automates the login process, including handling pop-ups for cookies, saving login info, and notifications.
 find_followers(): Navigates to the specified account profile, clicks the followers link, and scrolls through the followers list to load more users.
 follow(): Finds and clicks the "Follow" buttons to follow users, handling any pop-ups that might block the button.
