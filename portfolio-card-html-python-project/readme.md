@@ -37,5 +37,7 @@ A Flask web application serves the web page, providing a simple yet powerful bac
 
 Overall, this project serves as a professional online presence for Bartosz Tasak, showcasing his skills and providing a platform for further engagement through social media.
 
+## !WEB PAGE TEMPLATE DOWNLOADED FROM http://html5up.net!
+
 
 
